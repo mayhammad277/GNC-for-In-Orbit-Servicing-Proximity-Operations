@@ -202,4 +202,4 @@ A particularly challenging problem when range is unobservable. Key approaches:
 
 ---
 
-*Maintained by [@yourusername]. Contributions and paper suggestions welcome via PR.*
+*Maintained by [@mayhammad23773]. Contributions and paper suggestions welcome via PR.*
